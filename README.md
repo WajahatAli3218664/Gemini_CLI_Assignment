@@ -23,7 +23,7 @@ A static website clone of Canva's landing page, built using HTML and CSS. This p
 
 ## Screenshots
 
-- `canva_ss.png`: A screenshot of the project (included in the repository).
+- `canva_ss.png`
 
 ## Development Tools
 
